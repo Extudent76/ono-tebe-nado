@@ -84,14 +84,17 @@
 
 .aligned-text_center{
 	text-align: center;
+	line-height: 100%;
 }
 
 .aligned-text_right{
 	text-align: right;
+
 }
 
 .letter-spacing-extended{
 	letter-spacing: 60px;
+	line-height: 100%;
 }
 
 .no-letter-spacing{
@@ -113,7 +116,7 @@
 	font-weight: 400;
 	line-height: 28px;
 	text-transform: uppercase;
-	word-spacing: 25px;
+	word-spacing: 20px;
 }
 
 .bet-button{
