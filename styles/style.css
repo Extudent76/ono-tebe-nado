@@ -1,7 +1,7 @@
 .header {
 	display: grid;
 	padding: 92px 49px 92px 51px;
-	grid-template-columns:repeat(3, 1fr); 
+	grid-template-columns:repeat(3, 1fr);
 }
 
 .header-menu {
