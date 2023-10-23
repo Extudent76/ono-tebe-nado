@@ -310,9 +310,10 @@
 
 .footer__social-list-item {
 	grid-column: 3/4;
-	justify-self: stretch;
+	justify-self: end;
 	align-self: start;
 	display: flex;
+	gap: 40px;
 	list-style: none;
 	justify-content: space-between;
 }
