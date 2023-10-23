@@ -131,7 +131,7 @@
 	font-weight: 400;
 	line-height: 28px;
 	text-transform: uppercase;
-	word-spacing: 25px;
+	word-spacing: 19px;
 }
 
 .bet-button {
@@ -214,9 +214,10 @@
 	color: #FFF;
 	font-size: 22px;
 	font-weight: 700;
-	line-height: 120%; /* 26.4px */
+	line-height: 120%;
 	text-decoration-line: underline;
 	text-transform: uppercase;
+	word-break: normal;
 }
 
 .card__text {
