@@ -45,6 +45,7 @@
 }
 
 .header-address {
+	margin: 5px 0 7px 0;
 	grid-column: 3/4;
 	justify-self: end;
 	align-self: center;
@@ -80,6 +81,9 @@
 }
 
 .cover__title {
+	display: flex;
+	gap: 20px;
+	flex-direction: column;
 	color: #FFF;
 	font-size: 100px;
 	font-style: normal;
@@ -96,6 +100,7 @@
 .aligned-text_center {
 	text-align: center;
 	line-height: 100%;
+	margin-right: 60px;
 }
 
 .aligned-text_right {
@@ -274,7 +279,7 @@
 
 .footer {
 	display: grid;
-	padding: 0px 90px 50px 96px;
+	padding: 0px 50px 90px;
 	grid-template-columns:repeat(3, 1fr);
 	gap: 267px;
 }
