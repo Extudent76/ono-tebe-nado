@@ -131,7 +131,7 @@
 	font-weight: 400;
 	line-height: 28px;
 	text-transform: uppercase;
-	word-spacing: 20px;
+	word-spacing: 25px;
 }
 
 .bet-button {
@@ -313,7 +313,7 @@
 	justify-self: end;
 	align-self: start;
 	display: flex;
-	gap: 40px;
+	gap: 48px;
 	list-style: none;
 	justify-content: space-between;
 }
