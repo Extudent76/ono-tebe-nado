@@ -1,13 +1,13 @@
 body {
-  min-width: 1440px;
-  max-width: 1440px;
+	min-width: 1440px;
+	max-width: 1440px;
 	margin: auto;
 }
 
 .header {
 	display: grid;
 	padding: 92px 49px 92px 51px;
-	grid-template-columns:repeat(3, 1fr);
+	grid-template-columns: repeat(3, 1fr);
 }
 
 .header-menu {
@@ -195,7 +195,7 @@ body {
 	height: 100%;
 }
 
-.card-background-style{
+.card-background-style {
 	background-repeat: no-repeat;
 	background-size: 100% auto;
 	background-position: center;
@@ -239,22 +239,22 @@ body {
 	font-style: normal;
 	font-weight: 400;
 	line-height: 120%;
-	}
+}
 
-	.lots__look-more-link {
+.lots__look-more-link {
 	font-size: 20px;
 	font-weight: 400;
 	margin-left: 40px;
 	text-underline-position: under;
-	}
+}
 
-	.about {
+.about {
 	display: grid;
 	grid-template-columns: 430px 2fr;
 	gap: 25px;
 	padding: 0 50px;
 	margin-bottom: 180px;
-	}
+}
 
 .about__column {
 	justify-self: center;
@@ -288,12 +288,12 @@ body {
 	font-size: 20px;
 	font-weight: 400;
 	gap: 25px;
-	}
+}
 
 .footer {
 	display: grid;
 	padding: 0px 50px 90px;
-	grid-template-columns:repeat(3, 1fr);
+	grid-template-columns: repeat(3, 1fr);
 	gap: 267px;
 }
 
@@ -340,7 +340,3 @@ body {
 .footer__social-icon {
 	width: 100%;
 }
-
-
-
-
