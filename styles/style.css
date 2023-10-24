@@ -40,10 +40,11 @@ body {
 .header__logo {
 	grid-column: 2/3;
 	justify-self: center;
-	align-self: center;
+	align-self: start;
 	display: block;
-	width: 124.5px;
-	height: 94.84px;
+	width: 148px;
+	height: 105px;
+	margin-bottom: 4px;
 }
 
 .header__logo-image {
